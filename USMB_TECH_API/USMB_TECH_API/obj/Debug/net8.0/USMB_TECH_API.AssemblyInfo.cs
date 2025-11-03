@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("USMB_TECH_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc4cf3cc620d892ab12e83c52c8638cb1d69a77d")]
 [assembly: System.Reflection.AssemblyProductAttribute("USMB_TECH_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("USMB_TECH_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
