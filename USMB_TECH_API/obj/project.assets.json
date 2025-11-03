@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\S5\\S5A01\\dev\\USMB_TECH_API\\USMB_TECH_API\\USMB_TECH_API.csproj",
+      "projectUniqueName": "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj",
       "projectName": "USMB_TECH_API",
-      "projectPath": "P:\\S5\\S5A01\\dev\\USMB_TECH_API\\USMB_TECH_API\\USMB_TECH_API.csproj",
+      "projectPath": "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj",
       "packagesPath": "C:\\Users\\bonnarda\\.nuget\\packages\\",
-      "outputPath": "P:\\S5\\S5A01\\dev\\USMB_TECH_API\\USMB_TECH_API\\obj\\",
+      "outputPath": "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
