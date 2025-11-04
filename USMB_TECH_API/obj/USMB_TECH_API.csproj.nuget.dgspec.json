@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\droueest\\Desktop\\USMB\\Droueest\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj": {}
+    "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\droueest\\Desktop\\USMB\\Droueest\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj": {
+    "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\droueest\\Desktop\\USMB\\Droueest\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj",
+        "projectUniqueName": "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj",
         "projectName": "USMB_TECH_API",
-        "projectPath": "C:\\Users\\droueest\\Desktop\\USMB\\Droueest\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj",
-        "packagesPath": "C:\\Users\\droueest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\droueest\\Desktop\\USMB\\Droueest\\USMB_TECH\\USMB_TECH_API\\obj\\",
+        "projectPath": "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\USMB_TECH_API.csproj",
+        "packagesPath": "C:\\Users\\bonnarda\\.nuget\\packages\\",
+        "outputPath": "P:\\S5\\S5A01\\dev\\USMB_TECH\\USMB_TECH_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\droueest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bonnarda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
